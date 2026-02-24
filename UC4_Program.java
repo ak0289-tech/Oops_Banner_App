@@ -1,4 +1,4 @@
-public class UC4_PrintOOPS {
+public class UC4_Program {
     public static void main(String[] args){
         String[] lines= new String[7];
         lines[0]= String.join(" "," ***** "," ***** "," *****"," *****");
